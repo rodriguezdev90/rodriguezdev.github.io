@@ -1,0 +1,43 @@
+
+        body{
+            background-color: rgb(36, 223, 223);
+            background-image: url("imgs/bg.jpg");
+        }
+        h1{
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            text-shadow: 1px 1px 1px white, 2px 2px 1px white;
+            font-size: 45px;
+            color: black;
+            padding: 5px 40px 5px;
+            line-height: 1px;
+            text-align: center;
+            
+        }
+
+        p{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 16px;
+            padding: 10px 40px 10px;
+            border: 2px solid black;
+            background-color: white;
+            border-radius: 15px;
+        }
+
+        ul{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            border: 2px solid black;
+            background-color: white;
+            padding: 10px 40px 10px;
+            width: 200px;
+        }
+        td{
+            background-color: rgb(136, 38, 25);
+            width: 100%;
+            height: 100px;
+        }
+        table{
+            width: 100vh;
+            
+        }
+
